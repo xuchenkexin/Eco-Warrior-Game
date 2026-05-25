@@ -26,3 +26,20 @@ Eco-Warrior Game is a JavaFX-based educational game project designed to promote 
 ## Project Type
 
 Academic Group Project – Universiti Teknologi Malaysia (UTM)
+
+## Screenshots
+
+### Start Screen
+![Start Screen](images/start-screen.png)
+
+### Polluted Bay Level
+![Polluted Bay](images/polluted-bay.png)
+
+### Suffocating Forest Level
+![Forest](images/forest-level.png)
+
+### Rusty City Level
+![Rusty City](images/rusty-city.png)
+
+### Sacred Mountain Level
+![Sacred Mountain](images/sacred-mountain.png)
